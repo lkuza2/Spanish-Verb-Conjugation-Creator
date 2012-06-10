@@ -1,7 +1,7 @@
 Spanish-Verb-Conjugation-Creator
 ================================
 
-A Spanish verb conjugator written in Java that automatically conjugates verbs and writes them to a document.
+A Spanish verb conjugator written in Java that automatically conjugates verbs and writes them to a Microsoft Word document.
 
 The conjugator pulls the following forms/information:
 * Definition
